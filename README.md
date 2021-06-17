@@ -4,6 +4,7 @@
 
 🏫 Sungshin Women's University    
 Service Design Engineering · Computer Engineering
+   
 
 <!-- 📍 I'm interested in 
 UIUX Design
