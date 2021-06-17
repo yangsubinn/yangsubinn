@@ -1,5 +1,13 @@
-### Hi there 👾
+### Hi 👾
 
+#### Yang Subin
+
+🏫 Sungshin Women's University
+Service Design Engineering · Computer Engineering
+
+<!-- 📍 I'm interested in 
+UIUX Design
+Programming -->
 <!--
 **yangsubinn/yangsubinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
