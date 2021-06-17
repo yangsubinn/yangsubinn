@@ -1,6 +1,6 @@
 ### Hi 👾
 
-#### Yang Subin
+#### Yang Subin 양수빈
 
 🏫 Sungshin Women's University    
 Service Design Engineering · Computer Engineering
