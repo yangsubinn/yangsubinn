@@ -1,15 +1,33 @@
 <!-- ### Hi 👾 -->
-<!-- <div align=center> -->
+<div align=center>
 
-### Yang Subin 양수빈 👾
+### Yang Subin 양수빈 👾   
 
-🏫 Sungshin Women's University    
-Service Design Engineering · Computer Engineering
+
+#### major in   
+Service Design Engineering 🎨   
+   Computer Engineering 💻   
+   
+   <br>
+   
+#### interested in   
+UI/UX Design 💡  
+iOS 🍎   
+   
+<br>
+
+#### 🛠👩‍💻
+<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>      
+<img src="https://img.shields.io/badge/Figma-292929?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe XD-700f59?style=flat-square&logo=Adobe XD&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>    
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-7c67b5?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe After Effects-6661b8?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+   
+
+   
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yangsubinn)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyangsubinn&count_bg=%238F4EAC&title_bg=%23555555&icon=&icon_color=%23D1D1D1&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
    
 </div>
 
