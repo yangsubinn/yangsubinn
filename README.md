@@ -22,7 +22,7 @@ iOS 🍎
 <br>
 
 #### more 💬
-[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://nosy-repair-8a6.notion.site/Portfolio-59ff5c49ab5948d7825aa797033bd045)
+[![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white)](https://nosy-repair-8a6.notion.site/Portfolio-59ff5c49ab5948d7825aa797033bd045)
 
 
    
