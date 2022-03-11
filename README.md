@@ -32,7 +32,8 @@ UIUX Design · iOS
 
 
 #### 💭 More
-[![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white)](https://nosy-repair-8a6.notion.site/Portfolio-59ff5c49ab5948d7825aa797033bd045)
+[![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white)](https://nosy-repair-8a6.notion.site/Portfolio-59ff5c49ab5948d7825aa797033bd045) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:cindy010670@gmail.com)
 
 
    
