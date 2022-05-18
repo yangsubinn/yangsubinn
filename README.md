@@ -26,7 +26,7 @@ UIUX Design · iOS
 |:------|:------|:------|:------|:------|
 | 🥔  고도의 전략 | 28th Sopt Sopkathon | iOS Developer | [28th-SOPKATON](https://github.com/28th-SOPKATON) | - |
 | 👻 CatchMe | 28th Sopt Appjam | iOS Developer | [TeamCatchMe](https://github.com/TeamCatchMe) | - |
-|  ⚡️ Spark | 29th Sopt SopKathon | iOS Developer | [TeamSparker](https://github.com/TeamSparker) | - |
+|  ⚡️ Spark | 29th Sopt SopKathon | iOS Developer | [TeamSparker](https://github.com/TeamSparker) | [download🪄](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) |
 | 📚 README | 30th Sopt-Term | iOS Developer | [TEAMREADME](https://github.com/TEAM-README) | - |
 
 <br>
