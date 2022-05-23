@@ -36,6 +36,7 @@ UIUX Design · iOS
 [![Notion Badge](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white)](https://nosy-repair-8a6.notion.site/Portfolio-59ff5c49ab5948d7825aa797033bd045) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:cindy010670@gmail.com)
 [![Blog Badge](https://img.shields.io/badge/Blog-624ea6?style=flat-square&logo=GitHub&logoColor=white)](https://yang-subinn.tistory.com/)
+[![Behance Badge](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/cindy01067a2ab)
 
 
 
