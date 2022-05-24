@@ -1,7 +1,6 @@
 <div>
 
-### 👾 Hi
-Yang Subin 양수빈   
+### 👾 Hi, I'm Yang Subin 양수빈   
 <br>   
 
 
