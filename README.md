@@ -1,12 +1,12 @@
 <div>
 
-### 👾 Hi, I'm Yang Subin 양수빈   
+### 👾 Hi, 
+### I'm Yang Subin 양수빈   
 <br>   
 
 
 #### 🏫 Major
-Service Design Engineering 💡   
-Computer Engineering 💻   
+Service Design Engineering & Computer Engineering   
 <br>
    
 #### 🏷 Interested in
@@ -21,7 +21,7 @@ UIUX Design · iOS
 <br>
 
 #### 👩‍💻 Project
-| Project | Duration | Part | 📎 | 🍎 |
+| Service | Duration | Part | 📎 | 🍎 |
 |:------|:------|:------|:------|:------|
 | 🥔  고도의 전략 | 28th Sopt Sopkathon | iOS Developer | [28th-SOPKATON](https://github.com/28th-SOPKATON) | - |
 | 👻 CatchMe | 28th Sopt Appjam | iOS Developer | [TeamCatchMe](https://github.com/TeamCatchMe) | - |
