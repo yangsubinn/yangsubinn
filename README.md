@@ -1,5 +1,3 @@
-<div>
-
 ### 👾 Hi, 
 ### I'm Yang Subin 양수빈   
 <br>   
@@ -21,13 +19,65 @@ UIUX Design · iOS
 <br>
 
 #### 👩‍💻 Project
-| Service | Duration | Part | 📎 | 🍎 |
+<!--| Service | Duration | Part | 📎 | 🍎 |
 |:------|:------|:------|:------|:------|
 | 🥔  고도의 전략 | 28th Sopt Sopkathon | iOS Developer | [28th-SOPKATON](https://github.com/28th-SOPKATON) | - |
 | 👻 CatchMe | 28th Sopt Appjam | iOS Developer | [TeamCatchMe](https://github.com/TeamCatchMe) | - |
 |  ⚡️ Spark | 29th Sopt SopKathon | iOS Developer | [TeamSparker](https://github.com/TeamSparker) | [download🪄](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861) |
 | 📚 README | 30th Sopt-Term | iOS Developer | [TEAMREADME](https://github.com/TEAM-README) | - |
 | ☁️ Dear today | 30th Sopt Appjam | Designer | | |
+
+<img src="https://user-images.githubusercontent.com/81167570/183817341-4fb669a0-a3d0-42a0-adf5-abef1858b183.png" width=60 height=60/>-->
+
+> **고도의 전략 🥔**
+
+내 인맥, 나는 MBTI로 관리한다. 이게 바로 고도의 전략.
+
+28th Sopt Sopkathon : 2021.05.22 - 2021.05.23
+
+`iOS Developer`
+
+<br>
+
+> **CatchMe 👾**
+
+나의 매일을 다채롭게, 관심사 기반 캐릭터 관리
+
+28th Sopt Appjam : 2021.06.26 -
+
+`iOS Developer`
+
+<br>
+
+> **Spark ⚡️**
+
+친구와 함께 하는 66일간의 습관 형성 서비스
+
+29th Sopt Appjam : 2022.01.02 -
+
+`iOS Developer`
+
+[Download👏](https://apps.apple.com/kr/app/spark-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%B9%9C%EA%B5%AC%EC%99%80-%EC%8A%B5%EA%B4%80-%EA%B4%80%EB%A6%AC/id1605811861)
+
+<br>
+
+>**README 📚**
+
+우리들의 독서 기록 서비스
+
+30th Sopt-Term : 2022.03 - 
+
+`iOS Developer`
+
+<br>
+
+>**Dear today ☁️**
+
+시간 여행을 통해 지금의 행복에 대해 생각할 수 있도록 도와주는 스토리텔링 게임 서비스
+
+30th Sopt Appjam : 2022.06.18 -
+
+`Designer`
 
 <br>
 
@@ -41,20 +91,3 @@ UIUX Design · iOS
 
 
 
-   
-</div>
-
-<!--
-**yangsubinn/yangsubinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
