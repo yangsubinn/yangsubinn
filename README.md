@@ -8,7 +8,7 @@ Service Design Engineering & Computer Engineering
 #### 🏷 Interested in
 UIUX Design · iOS
 
-
+<br>
 
 #### 👩‍💻 Project
 <!--| Service | Duration | Part | 📎 | 🍎 |
@@ -21,6 +21,8 @@ UIUX Design · iOS
 
 <img src="https://user-images.githubusercontent.com/81167570/183817341-4fb669a0-a3d0-42a0-adf5-abef1858b183.png" width=60 height=60/>-->
 
+<img src="https://user-images.githubusercontent.com/81167570/183817341-4fb669a0-a3d0-42a0-adf5-abef1858b183.png" width=54 height=54/>
+
 > **고도의 전략 🥔**
 
 내 인맥, 나는 MBTI로 관리한다. 이게 바로 고도의 전략.
@@ -31,6 +33,8 @@ UIUX Design · iOS
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/81167570/184465672-2e5648f5-77bd-48b4-b25c-ed78be3a8bcd.png" width=54 height=54/>
+
 > **CatchMe 👾**
 
 나의 매일을 다채롭게, 관심사 기반 캐릭터 관리
@@ -40,6 +44,8 @@ UIUX Design · iOS
 `iOS Developer`
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/81167570/184465765-882581b5-9749-4fa8-ba15-b9a23827a713.png" width=54 height=54/>
 
 > **Spark ⚡️**
 
@@ -53,6 +59,8 @@ UIUX Design · iOS
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/81167570/184465852-cb05e110-a363-44d6-bcb1-729cc3c908c3.png" width=54 height=54/>
+
 >**README 📚**
 
 우리들의 독서 기록 서비스
@@ -62,6 +70,8 @@ UIUX Design · iOS
 `iOS Developer`
 
 <br>
+
+<img src="https://user-images.githubusercontent.com/81167570/184465819-dbdba8ec-3fe4-4104-b5d4-8d879dd6a371.png" width=54 height=54/>
 
 >**Dear today ☁️**
 
