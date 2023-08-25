@@ -23,7 +23,7 @@ Service Design Engineering | Computer Engineering
 
 <br>
 
-### Project
+#### 📂 Project
 
 
 나의 매일을 다채롭게, 관심사 기반 캐릭터 관리 서비스 **CatchMe** [🔗](https://github.com/yangsubinn/CatchMe-If-You-iOS)
