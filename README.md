@@ -18,7 +18,7 @@ Service Design Engineering | Computer Engineering
 - 서비스디자인학회 ‘Cresol’ 4기 (2020.09 - 2021.07)
 - 웹프로그래밍 동아리 ‘멋쟁이사자처럼’ 성신여대 9기 (2021.03 - 2021.12)
 - 대학 연합 IT벤처 창업 동아리 ‘SOPT’ 28, 29기 iOS 파트, 30기 디자인 파트 (2021.03 - 2022.07)
-- 대학 연합 IT벤처 창업 동아리 ‘SOPT Makers’ iOS Developer (2022.09 - 2023.01)
+- 대학 연합 IT벤처 창업 동아리 ‘SOPT Makers’ 1기 iOS Developer (2022.09 - 2023.01)
 - 전국 연합 IT 동아리 ‘DND’ 9기 iOS 개발 (2023.07 - 2023.08)
 
 <br>
