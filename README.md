@@ -1,5 +1,5 @@
 ### Yang Subin 양수빈
-###### [Gmail📨](mailto:cindy010670@gmail.com)　|　[Portfolio📔](https://nosy-repair-8a6.notion.site/8d6077e31702498aa2235a706a6c8759?pvs=4)　|　[Tistory⌨️](https://yang-subinn.tistory.com/)　|　[Behance🖱](https://www.behance.net/cindy01067a2ab)    
+###### [Gmail📨](mailto:cindy010670@gmail.com)　|　[Tistory⌨️](https://yang-subinn.tistory.com/)　|　[Behance🖱](https://www.behance.net/cindy01067a2ab)    
 
 <br>
 
@@ -8,13 +8,7 @@ Service Design Engineering | Computer Engineering
 
 <br>
 
-#### 🛠 Skill
-<img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-
-<br>
-
 #### 🪐 Activity
-- 수유4U 수유시장 활성화프로젝트 서비스 지원단 (2023.07 - 2023.08)
 - 서비스디자인학회 ‘Cresol’ 4기 (2020.09 - 2021.07)
 - 웹프로그래밍 동아리 ‘멋쟁이사자처럼’ 성신여대 9기 (2021.03 - 2021.12)
 - 대학 연합 IT벤처 창업 동아리 ‘SOPT’ 28, 29기 iOS 파트, 30기 디자인 파트 (2021.03 - 2022.07)
